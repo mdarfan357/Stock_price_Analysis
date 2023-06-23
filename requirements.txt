@@ -1,0 +1,5 @@
+yahoo-fin
+dateutil
+pandas
+plotly
+datetime
