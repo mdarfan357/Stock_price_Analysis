@@ -1,5 +1,6 @@
 yahoo-fin
-dateutil
 pandas
 plotly
 datetime
+TA-lib
+yfinance
